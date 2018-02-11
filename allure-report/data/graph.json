@@ -1,0 +1,91 @@
+[ {
+  "uid" : "d1cb0335facbdf",
+  "name" : "Testing login user",
+  "time" : {
+    "start" : 1518367481397,
+    "stop" : 1518367507634,
+    "duration" : 26237
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "938e86591a46e58b",
+  "name" : "Testing Email validation",
+  "time" : {
+    "start" : 1518367562003,
+    "stop" : 1518367568232,
+    "duration" : 6229
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "61caddd0ffec4e79",
+  "name" : "Testing Redirect",
+  "time" : {
+    "start" : 1518367595451,
+    "stop" : 1518367607596,
+    "duration" : 12145
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c81b118f58189731",
+  "name" : "Testing Last name validation",
+  "time" : {
+    "start" : 1518367545641,
+    "stop" : 1518367551416,
+    "duration" : 5775
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "92d90dc6eb6ec847",
+  "name" : "Testing Password validation",
+  "time" : {
+    "start" : 1518367579160,
+    "stop" : 1518367583149,
+    "duration" : 3989
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "576287c673954009",
+  "name" : "Testing logout user",
+  "time" : {
+    "start" : 1518367507741,
+    "stop" : 1518367513543,
+    "duration" : 5802
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45f159528aadd6e9",
+  "name" : "Testing registration user",
+  "time" : {
+    "start" : 1518367477805,
+    "stop" : 1518367481384,
+    "duration" : 3579
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74204d42da1d5e71",
+  "name" : "Testing Forgot your password button",
+  "time" : {
+    "start" : 1518367513546,
+    "stop" : 1518367516477,
+    "duration" : 2931
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9bb06402ef4ac92e",
+  "name" : "Testing First name validation",
+  "time" : {
+    "start" : 1518367528328,
+    "stop" : 1518367534473,
+    "duration" : 6145
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

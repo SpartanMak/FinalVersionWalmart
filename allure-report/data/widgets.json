@@ -1,0 +1,187 @@
+{
+  "summary" : {
+    "reportName" : "Allure Report",
+    "testRuns" : [ ],
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "time" : {
+      "start" : 1518367477805,
+      "stop" : 1518367607596,
+      "duration" : 129791,
+      "minDuration" : 2931,
+      "maxDuration" : 26237,
+      "sumDuration" : 72832
+    }
+  },
+  "environment" : [ ],
+  "suites" : {
+    "total" : 1,
+    "items" : [ {
+      "uid" : "4578b3b69fb366fbe1cac79c78b066eb",
+      "name" : "Walmart",
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 9
+      }
+    } ]
+  },
+  "history-trend" : [ {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "buildOrder" : 9,
+    "reportUrl" : "nulljob/FinalVersion/9/allure",
+    "reportName" : "AllureReport"
+  }, {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "buildOrder" : 8,
+    "reportUrl" : "nulljob/FinalVersion/8/allure",
+    "reportName" : "AllureReport"
+  }, {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "buildOrder" : 7,
+    "reportUrl" : "nulljob/FinalVersion/7/allure",
+    "reportName" : "AllureReport"
+  }, {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "buildOrder" : 6,
+    "reportUrl" : "nulljob/FinalVersion/6/allure",
+    "reportName" : "AllureReport"
+  }, {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "buildOrder" : 5,
+    "reportUrl" : "nulljob/FinalVersion/5/allure",
+    "reportName" : "AllureReport"
+  }, {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "buildOrder" : 4,
+    "reportUrl" : "nulljob/FinalVersion/4/allure",
+    "reportName" : "AllureReport"
+  }, {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "buildOrder" : 3,
+    "reportUrl" : "nulljob/FinalVersion/3/allure",
+    "reportName" : "AllureReport"
+  }, {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 12
+    },
+    "buildOrder" : 2,
+    "reportUrl" : "nulljob/FinalVersion/2/allure",
+    "reportName" : "AllureReport"
+  }, {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "buildOrder" : 1,
+    "reportUrl" : "nulljob/FinalVersion/1/allure",
+    "reportName" : "AllureReport"
+  } ],
+  "behaviors" : {
+    "total" : 9,
+    "items" : [ ]
+  },
+  "executors" : [ {
+    "name" : "Jenkins",
+    "type" : "jenkins",
+    "buildOrder" : 9,
+    "buildName" : "FinalVersion #9",
+    "buildUrl" : "nulljob/FinalVersion/9/",
+    "reportName" : "AllureReport",
+    "reportUrl" : "nulljob/FinalVersion/9/allure"
+  } ],
+  "categories" : {
+    "total" : 2,
+    "items" : [ {
+      "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d",
+      "name" : "Product defects",
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 1
+      }
+    }, {
+      "uid" : "bdbf199525818fae7a8651db9eafe741",
+      "name" : "Test defects",
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 1
+      }
+    } ]
+  },
+  "launches" : [ ]
+}

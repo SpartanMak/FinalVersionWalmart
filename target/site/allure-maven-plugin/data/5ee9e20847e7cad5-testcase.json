@@ -1,0 +1,209 @@
+{
+  "uid" : "5ee9e20847e7cad5",
+  "name" : "testFirstNameValidation",
+  "title" : "Testing First name validation",
+  "time" : {
+    "start" : 1518367528328,
+    "stop" : 1518367534473,
+    "duration" : 6145
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 10
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "7b9cb3cbf4f7a569",
+    "name" : "Walmart : Walmart Test",
+    "title" : "Walmart : Walmart Test"
+  },
+  "steps" : [ {
+    "name" : "clickLoginButton",
+    "title" : "Click on Create Account button",
+    "time" : {
+      "start" : 1518367528512,
+      "stop" : 1518367528756,
+      "duration" : 244
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "firstNameValidation",
+    "title" : "Check the first name field by all the invalid first name",
+    "time" : {
+      "start" : 1518367528758,
+      "stop" : 1518367528873,
+      "duration" : 115
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "clickLoginButton",
+    "title" : "Click on Create Account button",
+    "time" : {
+      "start" : 1518367530229,
+      "stop" : 1518367530426,
+      "duration" : 197
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "firstNameValidation",
+    "title" : "Check the first name field by all the invalid first name",
+    "time" : {
+      "start" : 1518367530428,
+      "stop" : 1518367530491,
+      "duration" : 63
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "clickLoginButton",
+    "title" : "Click on Create Account button",
+    "time" : {
+      "start" : 1518367530991,
+      "stop" : 1518367531213,
+      "duration" : 222
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "firstNameValidation",
+    "title" : "Check the first name field by all the invalid first name",
+    "time" : {
+      "start" : 1518367531214,
+      "stop" : 1518367531253,
+      "duration" : 39
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "clickLoginButton",
+    "title" : "Click on Create Account button",
+    "time" : {
+      "start" : 1518367532046,
+      "stop" : 1518367532229,
+      "duration" : 183
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "firstNameValidation",
+    "title" : "Check the first name field by all the invalid first name",
+    "time" : {
+      "start" : 1518367532230,
+      "stop" : 1518367532274,
+      "duration" : 44
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "clickLoginButton",
+    "title" : "Click on Create Account button",
+    "time" : {
+      "start" : 1518367534237,
+      "stop" : 1518367534428,
+      "duration" : 191
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "firstNameValidation",
+    "title" : "Check the first name field by all the invalid first name",
+    "time" : {
+      "start" : 1518367534430,
+      "stop" : 1518367534472,
+      "duration" : 42
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "testSuite",
+    "value" : "Walmart"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "Walmart : Walmart Test"
+  }, {
+    "name" : "testGroup",
+    "value" : "Walmart Test"
+  }, {
+    "name" : "testClass",
+    "value" : "First_name_validationTest"
+  }, {
+    "name" : "suite-title",
+    "value" : "Walmart : Walmart Test"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "testMethod",
+    "value" : "testFirstNameValidation"
+  }, {
+    "name" : "thread",
+    "value" : "9772@DESKTOP-CIQLQJH.main(1)"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CIQLQJH"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,104 @@
+{
+  "uid" : "86981ca1ad3c50c5",
+  "name" : "testLogoutUser",
+  "title" : "Testing logout user",
+  "time" : {
+    "start" : 1518367507741,
+    "stop" : 1518367513543,
+    "duration" : 5802
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 3
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "7b9cb3cbf4f7a569",
+    "name" : "Walmart : Walmart Test",
+    "title" : "Walmart : Walmart Test"
+  },
+  "steps" : [ {
+    "name" : "clickMenuButton",
+    "title" : "Show admin menu",
+    "time" : {
+      "start" : 1518367507746,
+      "stop" : 1518367508258,
+      "duration" : 512
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "clickLogoutButton",
+    "title" : "Click on logout button",
+    "time" : {
+      "start" : 1518367508664,
+      "stop" : 1518367513360,
+      "duration" : 4696
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "forgotText",
+    "title" : "Get Forgot your password text",
+    "time" : {
+      "start" : 1518367513404,
+      "stop" : 1518367513543,
+      "duration" : 139
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "testSuite",
+    "value" : "Walmart"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "Walmart : Walmart Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "testLogoutUser"
+  }, {
+    "name" : "testGroup",
+    "value" : "Walmart Test"
+  }, {
+    "name" : "suite-title",
+    "value" : "Walmart : Walmart Test"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "thread",
+    "value" : "9772@DESKTOP-CIQLQJH.main(1)"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CIQLQJH"
+  }, {
+    "name" : "testClass",
+    "value" : "RegistrationTest"
+  } ],
+  "parameters" : [ ]
+}

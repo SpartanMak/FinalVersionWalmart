@@ -1,0 +1,97 @@
+[ {
+  "statistic" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 9,
+    "unknown" : 0,
+    "total" : 9
+  },
+  "buildOrder" : 8,
+  "reportUrl" : "nulljob/FinalVersion/8/allure",
+  "reportName" : "AllureReport"
+}, {
+  "statistic" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 9,
+    "unknown" : 0,
+    "total" : 9
+  },
+  "buildOrder" : 7,
+  "reportUrl" : "nulljob/FinalVersion/7/allure",
+  "reportName" : "AllureReport"
+}, {
+  "statistic" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 9,
+    "unknown" : 0,
+    "total" : 9
+  },
+  "buildOrder" : 6,
+  "reportUrl" : "nulljob/FinalVersion/6/allure",
+  "reportName" : "AllureReport"
+}, {
+  "statistic" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 9,
+    "unknown" : 0,
+    "total" : 9
+  },
+  "buildOrder" : 5,
+  "reportUrl" : "nulljob/FinalVersion/5/allure",
+  "reportName" : "AllureReport"
+}, {
+  "statistic" : {
+    "failed" : 0,
+    "broken" : 1,
+    "skipped" : 0,
+    "passed" : 8,
+    "unknown" : 0,
+    "total" : 9
+  },
+  "buildOrder" : 4,
+  "reportUrl" : "nulljob/FinalVersion/4/allure",
+  "reportName" : "AllureReport"
+}, {
+  "statistic" : {
+    "failed" : 0,
+    "broken" : 1,
+    "skipped" : 0,
+    "passed" : 8,
+    "unknown" : 0,
+    "total" : 9
+  },
+  "buildOrder" : 3,
+  "reportUrl" : "nulljob/FinalVersion/3/allure",
+  "reportName" : "AllureReport"
+}, {
+  "statistic" : {
+    "failed" : 0,
+    "broken" : 4,
+    "skipped" : 0,
+    "passed" : 8,
+    "unknown" : 0,
+    "total" : 12
+  },
+  "buildOrder" : 2,
+  "reportUrl" : "nulljob/FinalVersion/2/allure",
+  "reportName" : "AllureReport"
+}, {
+  "statistic" : {
+    "failed" : 0,
+    "broken" : 3,
+    "skipped" : 0,
+    "passed" : 0,
+    "unknown" : 0,
+    "total" : 3
+  },
+  "buildOrder" : 1,
+  "reportUrl" : "nulljob/FinalVersion/1/allure",
+  "reportName" : "AllureReport"
+} ]

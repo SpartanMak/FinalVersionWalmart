@@ -1,0 +1,113 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Testing registration user",
+    "uid" : "45f159528aadd6e9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1518367477805,
+      "stop" : 1518367481384,
+      "duration" : 3579
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing login user",
+    "uid" : "d1cb0335facbdf",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1518367481397,
+      "stop" : 1518367507634,
+      "duration" : 26237
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing logout user",
+    "uid" : "576287c673954009",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1518367507741,
+      "stop" : 1518367513543,
+      "duration" : 5802
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing Forgot your password button",
+    "uid" : "74204d42da1d5e71",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1518367513546,
+      "stop" : 1518367516477,
+      "duration" : 2931
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing First name validation",
+    "uid" : "9bb06402ef4ac92e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1518367528328,
+      "stop" : 1518367534473,
+      "duration" : 6145
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing Last name validation",
+    "uid" : "c81b118f58189731",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1518367545641,
+      "stop" : 1518367551416,
+      "duration" : 5775
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing Email validation",
+    "uid" : "938e86591a46e58b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1518367562003,
+      "stop" : 1518367568232,
+      "duration" : 6229
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing Password validation",
+    "uid" : "92d90dc6eb6ec847",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1518367579160,
+      "stop" : 1518367583149,
+      "duration" : 3989
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing Redirect",
+    "uid" : "61caddd0ffec4e79",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1518367595451,
+      "stop" : 1518367607596,
+      "duration" : 12145
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

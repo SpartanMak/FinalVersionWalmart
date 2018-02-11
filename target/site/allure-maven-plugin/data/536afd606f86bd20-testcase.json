@@ -1,0 +1,89 @@
+{
+  "uid" : "536afd606f86bd20",
+  "name" : "testRedirect",
+  "title" : "Testing Redirect",
+  "time" : {
+    "start" : 1518367595451,
+    "stop" : 1518367607596,
+    "duration" : 12145
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 2
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "7b9cb3cbf4f7a569",
+    "name" : "Walmart : Walmart Test",
+    "title" : "Walmart : Walmart Test"
+  },
+  "steps" : [ {
+    "name" : "TermsofUseLink",
+    "title" : "Click on TermsofUseLink link",
+    "time" : {
+      "start" : 1518367595453,
+      "stop" : 1518367595759,
+      "duration" : 306
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "PrivacyPolicyLink",
+    "title" : "Click on PrivacyPolicyLink link",
+    "time" : {
+      "start" : 1518367601613,
+      "stop" : 1518367602759,
+      "duration" : 1146
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "testSuite",
+    "value" : "Walmart"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "Walmart : Walmart Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "testRedirect"
+  }, {
+    "name" : "testGroup",
+    "value" : "Walmart Test"
+  }, {
+    "name" : "testClass",
+    "value" : "RedirectTest"
+  }, {
+    "name" : "suite-title",
+    "value" : "Walmart : Walmart Test"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "thread",
+    "value" : "9772@DESKTOP-CIQLQJH.main(1)"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CIQLQJH"
+  } ],
+  "parameters" : [ ]
+}

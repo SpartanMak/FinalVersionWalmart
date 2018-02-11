@@ -1,0 +1,149 @@
+{
+  "uid" : "6cb5512e7715dd76",
+  "name" : "testResetPassword",
+  "title" : "Testing Forgot your password button",
+  "time" : {
+    "start" : 1518367513546,
+    "stop" : 1518367516477,
+    "duration" : 2931
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 6
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "7b9cb3cbf4f7a569",
+    "name" : "Walmart : Walmart Test",
+    "title" : "Walmart : Walmart Test"
+  },
+  "steps" : [ {
+    "name" : "forgotPasswordLink",
+    "title" : "Click on forgot password link",
+    "time" : {
+      "start" : 1518367513548,
+      "stop" : 1518367513808,
+      "duration" : 260
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "clickResetButton",
+    "title" : "Click on reset button",
+    "time" : {
+      "start" : 1518367513827,
+      "stop" : 1518367514001,
+      "duration" : 174
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "resetTextFalse",
+    "title" : "Get Forgot your password text false",
+    "time" : {
+      "start" : 1518367514002,
+      "stop" : 1518367514067,
+      "duration" : 65
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "enterCredentialsEmail[email]",
+    "title" : "Input Email",
+    "time" : {
+      "start" : 1518367514069,
+      "stop" : 1518367516068,
+      "duration" : 1999
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "clickResetButton",
+    "title" : "Click on reset button",
+    "time" : {
+      "start" : 1518367516070,
+      "stop" : 1518367516392,
+      "duration" : 322
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "resetTextTrue",
+    "title" : "Get Forgot your password text true",
+    "time" : {
+      "start" : 1518367516396,
+      "stop" : 1518367516477,
+      "duration" : 81
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "testSuite",
+    "value" : "Walmart"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "Walmart : Walmart Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "testResetPassword"
+  }, {
+    "name" : "testGroup",
+    "value" : "Walmart Test"
+  }, {
+    "name" : "suite-title",
+    "value" : "Walmart : Walmart Test"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "thread",
+    "value" : "9772@DESKTOP-CIQLQJH.main(1)"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CIQLQJH"
+  }, {
+    "name" : "testClass",
+    "value" : "RegistrationTest"
+  } ],
+  "parameters" : [ ]
+}

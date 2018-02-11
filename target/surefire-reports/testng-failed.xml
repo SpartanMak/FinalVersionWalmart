@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Walmart]" data-provider-thread-count="1">
+  <test name="Walmart Test">
+    <classes>
+      <class name="RegistrationTest"/>
+      <class name="First_name_validationTest"/>
+      <class name="Last_name_validationTest"/>
+      <class name="Email_validationTest"/>
+      <class name="Password_validationTest"/>
+      <class name="RedirectTest"/>
+    </classes>
+  </test> <!-- Walmart Test -->
+</suite> <!-- Failed suite [Walmart] -->

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Walmart" verbose="5" data-provider-thread-count="1">
+
+    <test name="Walmart Test">
+        <!--<parameter name="browser" value="chrome"/>-->
+        <classes>
+            <class name="RegistrationTest"/>
+            <class name="First_name_validationTest"/>
+            <class name="Last_name_validationTest"/>
+            <class name="Email_validationTest"/>
+            <class name="Password_validationTest"/>
+            <class name="RedirectTest"/>
+
+        </classes>
+    </test>
+
+
+</suite>

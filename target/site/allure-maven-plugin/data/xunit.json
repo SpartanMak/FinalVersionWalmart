@@ -1,0 +1,126 @@
+{
+  "time" : {
+    "start" : 1518367477805,
+    "stop" : 1518367607596,
+    "duration" : 129791
+  },
+  "testSuites" : [ {
+    "uid" : "7b9cb3cbf4f7a569",
+    "name" : "Walmart : Walmart Test",
+    "title" : "Walmart : Walmart Test",
+    "time" : {
+      "start" : 1518367477805,
+      "stop" : 1518367607596,
+      "duration" : 129791
+    },
+    "statistic" : {
+      "total" : 9,
+      "passed" : 7,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 1,
+      "broken" : 1
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "2e67901cc43f099f",
+      "name" : "testRegistrationUser",
+      "title" : "Testing registration user",
+      "time" : {
+        "start" : 1518367477805,
+        "stop" : 1518367481384,
+        "duration" : 3579
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "2630eff8ac629554",
+      "name" : "testLoginUser",
+      "title" : "Testing login user",
+      "time" : {
+        "start" : 1518367481397,
+        "stop" : 1518367507634,
+        "duration" : 26237
+      },
+      "severity" : "NORMAL",
+      "status" : "FAILED"
+    }, {
+      "uid" : "86981ca1ad3c50c5",
+      "name" : "testLogoutUser",
+      "title" : "Testing logout user",
+      "time" : {
+        "start" : 1518367507741,
+        "stop" : 1518367513543,
+        "duration" : 5802
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "6cb5512e7715dd76",
+      "name" : "testResetPassword",
+      "title" : "Testing Forgot your password button",
+      "time" : {
+        "start" : 1518367513546,
+        "stop" : 1518367516477,
+        "duration" : 2931
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "5ee9e20847e7cad5",
+      "name" : "testFirstNameValidation",
+      "title" : "Testing First name validation",
+      "time" : {
+        "start" : 1518367528328,
+        "stop" : 1518367534473,
+        "duration" : 6145
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "57cfd54e70f6dc30",
+      "name" : "testLastNameValidation",
+      "title" : "Testing Last name validation",
+      "time" : {
+        "start" : 1518367545641,
+        "stop" : 1518367551416,
+        "duration" : 5775
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "41a06a49fe7f9eab",
+      "name" : "testEmailValidation",
+      "title" : "Testing Email validation",
+      "time" : {
+        "start" : 1518367562003,
+        "stop" : 1518367568232,
+        "duration" : 6229
+      },
+      "severity" : "NORMAL",
+      "status" : "BROKEN"
+    }, {
+      "uid" : "42c365589b976e18",
+      "name" : "testPasswordValidation",
+      "title" : "Testing Password validation",
+      "time" : {
+        "start" : 1518367579160,
+        "stop" : 1518367583149,
+        "duration" : 3989
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "536afd606f86bd20",
+      "name" : "testRedirect",
+      "title" : "Testing Redirect",
+      "time" : {
+        "start" : 1518367595451,
+        "stop" : 1518367607596,
+        "duration" : 12145
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

@@ -1,0 +1,149 @@
+{
+  "uid" : "2e67901cc43f099f",
+  "name" : "testRegistrationUser",
+  "title" : "Testing registration user",
+  "time" : {
+    "start" : 1518367477805,
+    "stop" : 1518367481384,
+    "duration" : 3579
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 6
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "7b9cb3cbf4f7a569",
+    "name" : "Walmart : Walmart Test",
+    "title" : "Walmart : Walmart Test"
+  },
+  "steps" : [ {
+    "name" : "enterCredentialsFirstName[firstName]",
+    "title" : "Input First Name",
+    "time" : {
+      "start" : 1518367478124,
+      "stop" : 1518367478829,
+      "duration" : 705
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "enterCredentialsLastName[lastName]",
+    "title" : "Input Last Name",
+    "time" : {
+      "start" : 1518367478832,
+      "stop" : 1518367479330,
+      "duration" : 498
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "enterCredentialsEmail[email]",
+    "title" : "Input Email",
+    "time" : {
+      "start" : 1518367479331,
+      "stop" : 1518367480416,
+      "duration" : 1085
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "enterCredentialsPassword[password]",
+    "title" : "Input Password",
+    "time" : {
+      "start" : 1518367480418,
+      "stop" : 1518367480978,
+      "duration" : 560
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "setRememberMeCheckbox",
+    "title" : "Click checkbox RememberMe",
+    "time" : {
+      "start" : 1518367480979,
+      "stop" : 1518367481033,
+      "duration" : 54
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "clickLoginButton",
+    "title" : "Click on Create Account button",
+    "time" : {
+      "start" : 1518367481034,
+      "stop" : 1518367481381,
+      "duration" : 347
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "testSuite",
+    "value" : "Walmart"
+  }, {
+    "name" : "testMethod",
+    "value" : "testRegistrationUser"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "Walmart : Walmart Test"
+  }, {
+    "name" : "testGroup",
+    "value" : "Walmart Test"
+  }, {
+    "name" : "suite-title",
+    "value" : "Walmart : Walmart Test"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "thread",
+    "value" : "9772@DESKTOP-CIQLQJH.main(1)"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CIQLQJH"
+  }, {
+    "name" : "testClass",
+    "value" : "RegistrationTest"
+  } ],
+  "parameters" : [ ]
+}

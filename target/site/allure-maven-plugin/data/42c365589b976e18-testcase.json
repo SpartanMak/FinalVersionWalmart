@@ -1,0 +1,194 @@
+{
+  "uid" : "42c365589b976e18",
+  "name" : "testPasswordValidation",
+  "title" : "Testing Password validation",
+  "time" : {
+    "start" : 1518367579160,
+    "stop" : 1518367583149,
+    "duration" : 3989
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 9
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "7b9cb3cbf4f7a569",
+    "name" : "Walmart : Walmart Test",
+    "title" : "Walmart : Walmart Test"
+  },
+  "steps" : [ {
+    "name" : "clickLoginButton",
+    "title" : "Click on Create Account button",
+    "time" : {
+      "start" : 1518367579346,
+      "stop" : 1518367579672,
+      "duration" : 326
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "passwordValidation",
+    "title" : "Check the Password field by all the invalid password",
+    "time" : {
+      "start" : 1518367579673,
+      "stop" : 1518367579746,
+      "duration" : 73
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "clickLoginButton",
+    "title" : "Click on Create Account button",
+    "time" : {
+      "start" : 1518367580214,
+      "stop" : 1518367580464,
+      "duration" : 250
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "passwordValidation",
+    "title" : "Check the Password field by all the invalid password",
+    "time" : {
+      "start" : 1518367580465,
+      "stop" : 1518367580499,
+      "duration" : 34
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "clickLoginButton",
+    "title" : "Click on Create Account button",
+    "time" : {
+      "start" : 1518367581180,
+      "stop" : 1518367581446,
+      "duration" : 266
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "passwordValidation",
+    "title" : "Check the Password field by all the invalid password",
+    "time" : {
+      "start" : 1518367581447,
+      "stop" : 1518367581492,
+      "duration" : 45
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "clickLoginButton",
+    "title" : "Click on Create Account button",
+    "time" : {
+      "start" : 1518367582023,
+      "stop" : 1518367582273,
+      "duration" : 250
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "passwordValidation",
+    "title" : "Check the Password field by all the invalid password",
+    "time" : {
+      "start" : 1518367582274,
+      "stop" : 1518367582379,
+      "duration" : 105
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "passwordMarkerSuccess",
+    "title" : "Check the password field by valid emails",
+    "time" : {
+      "start" : 1518367583081,
+      "stop" : 1518367583148,
+      "duration" : 67
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "testSuite",
+    "value" : "Walmart"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "Walmart : Walmart Test"
+  }, {
+    "name" : "testGroup",
+    "value" : "Walmart Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "testPasswordValidation"
+  }, {
+    "name" : "testClass",
+    "value" : "Password_validationTest"
+  }, {
+    "name" : "suite-title",
+    "value" : "Walmart : Walmart Test"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "thread",
+    "value" : "9772@DESKTOP-CIQLQJH.main(1)"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CIQLQJH"
+  } ],
+  "parameters" : [ ]
+}

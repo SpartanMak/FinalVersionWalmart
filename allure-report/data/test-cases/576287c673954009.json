@@ -1,0 +1,187 @@
+{
+  "uid" : "576287c673954009",
+  "name" : "Testing logout user",
+  "fullName" : "RegistrationTest.testLogoutUser",
+  "historyId" : "98bd6a77ffbb2bf57362087562c7070d",
+  "time" : {
+    "start" : 1518367507741,
+    "stop" : 1518367513543,
+    "duration" : 5802
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Show admin menu",
+      "time" : {
+        "start" : 1518367507746,
+        "stop" : 1518367508258,
+        "duration" : 512
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Click on logout button",
+      "time" : {
+        "start" : 1518367508664,
+        "stop" : 1518367513360,
+        "duration" : 4696
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Get Forgot your password text",
+      "time" : {
+        "start" : 1518367513404,
+        "stop" : 1518367513543,
+        "duration" : 139
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CIQLQJH"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "RegistrationTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "Walmart Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "testLogoutUser"
+  }, {
+    "name" : "testSuite",
+    "value" : "Walmart"
+  }, {
+    "name" : "thread",
+    "value" : "9772@DESKTOP-CIQLQJH.main(1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Walmart"
+  }, {
+    "name" : "suite",
+    "value" : "Walmart Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "RegistrationTest"
+  }, {
+    "name" : "package",
+    "value" : "RegistrationTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "90fc08cc1a11edca",
+        "reportUrl" : "nulljob/FinalVersion/8/allure/#testresult/90fc08cc1a11edca",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518366990402,
+          "stop" : 1518366998262,
+          "duration" : 7860
+        }
+      }, {
+        "uid" : "93612738c4db1559",
+        "reportUrl" : "nulljob/FinalVersion/7/allure/#testresult/93612738c4db1559",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518363180792,
+          "stop" : 1518363183798,
+          "duration" : 3006
+        }
+      }, {
+        "uid" : "77e89886ff259210",
+        "reportUrl" : "nulljob/FinalVersion/6/allure/#testresult/77e89886ff259210",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518362999461,
+          "stop" : 1518363003415,
+          "duration" : 3954
+        }
+      }, {
+        "uid" : "4ebc42b817335cb9",
+        "reportUrl" : "nulljob/FinalVersion/5/allure/#testresult/4ebc42b817335cb9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518362824449,
+          "stop" : 1518362827140,
+          "duration" : 2691
+        }
+      }, {
+        "uid" : "751f95891f517d2a",
+        "reportUrl" : "nulljob/FinalVersion/4/allure/#testresult/751f95891f517d2a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518361902265,
+          "stop" : 1518361905542,
+          "duration" : 3277
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "576287c673954009.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

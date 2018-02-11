@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1518372243405" stop="1518372365032" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Walmart : Walmart Test</name>
+    <title>Walmart : Walmart Test</title>
+    <test-cases>
+        <test-case start="1518372260309" stop="1518372263576" status="passed">
+            <name>testRegistrationUser</name>
+            <title>Testing registration user</title>
+            <steps>
+                <step start="1518372260569" stop="1518372261348" status="passed">
+                    <name>enterCredentialsFirstName[firstName]</name>
+                    <title>Input First Name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372261352" stop="1518372261822" status="passed">
+                    <name>enterCredentialsLastName[lastName]</name>
+                    <title>Input Last Name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372261824" stop="1518372262773" status="passed">
+                    <name>enterCredentialsEmail[email]</name>
+                    <title>Input Email</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372262775" stop="1518372263241" status="passed">
+                    <name>enterCredentialsPassword[password]</name>
+                    <title>Input Password</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372263244" stop="1518372263281" status="passed">
+                    <name>setRememberMeCheckbox</name>
+                    <title>Click checkbox RememberMe</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372263281" stop="1518372263573" status="passed">
+                    <name>clickLoginButton</name>
+                    <title>Click on Create Account button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Walmart"/>
+                <label name="testGroup" value="Walmart Test"/>
+                <label name="testClass" value="RegistrationTest"/>
+                <label name="testMethod" value="testRegistrationUser"/>
+                <label name="host" value="DESKTOP-CIQLQJH"/>
+                <label name="thread" value="7940@DESKTOP-CIQLQJH.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1518372263582" stop="1518372269381" status="passed">
+            <name>testLoginUser</name>
+            <title>Testing login user</title>
+            <steps>
+                <step start="1518372269222" stop="1518372269288" status="passed">
+                    <name>toggleSidebar</name>
+                    <title>Click on sidebar button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372269319" stop="1518372269381" status="passed">
+                    <name>helloText</name>
+                    <title>Get User text</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Walmart"/>
+                <label name="testGroup" value="Walmart Test"/>
+                <label name="testClass" value="RegistrationTest"/>
+                <label name="testMethod" value="testLoginUser"/>
+                <label name="host" value="DESKTOP-CIQLQJH"/>
+                <label name="thread" value="7940@DESKTOP-CIQLQJH.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1518372269381" stop="1518372273452" status="passed">
+            <name>testLogoutUser</name>
+            <title>Testing logout user</title>
+            <steps>
+                <step start="1518372269381" stop="1518372269534" status="passed">
+                    <name>clickMenuButton</name>
+                    <title>Show admin menu</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372269673" stop="1518372273303" status="passed">
+                    <name>clickLogoutButton</name>
+                    <title>Click on logout button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372273340" stop="1518372273452" status="passed">
+                    <name>forgotText</name>
+                    <title>Get Forgot your password text</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Walmart"/>
+                <label name="testGroup" value="Walmart Test"/>
+                <label name="testClass" value="RegistrationTest"/>
+                <label name="testMethod" value="testLogoutUser"/>
+                <label name="host" value="DESKTOP-CIQLQJH"/>
+                <label name="thread" value="7940@DESKTOP-CIQLQJH.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1518372273452" stop="1518372276139" status="passed">
+            <name>testResetPassword</name>
+            <title>Testing Forgot your password button</title>
+            <steps>
+                <step start="1518372273452" stop="1518372273797" status="passed">
+                    <name>forgotPasswordLink</name>
+                    <title>Click on forgot password link</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372273802" stop="1518372274077" status="passed">
+                    <name>clickResetButton</name>
+                    <title>Click on reset button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372274078" stop="1518372274132" status="passed">
+                    <name>resetTextFalse</name>
+                    <title>Get Forgot your password text false</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372274134" stop="1518372275769" status="passed">
+                    <name>enterCredentialsEmail[email]</name>
+                    <title>Input Email</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372275771" stop="1518372276039" status="passed">
+                    <name>clickResetButton</name>
+                    <title>Click on reset button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372276043" stop="1518372276139" status="passed">
+                    <name>resetTextTrue</name>
+                    <title>Get Forgot your password text true</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Walmart"/>
+                <label name="testGroup" value="Walmart Test"/>
+                <label name="testClass" value="RegistrationTest"/>
+                <label name="testMethod" value="testResetPassword"/>
+                <label name="host" value="DESKTOP-CIQLQJH"/>
+                <label name="thread" value="7940@DESKTOP-CIQLQJH.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1518372289631" stop="1518372295046" status="passed">
+            <name>testFirstNameValidation</name>
+            <title>Testing First name validation</title>
+            <steps>
+                <step start="1518372289780" stop="1518372290052" status="passed">
+                    <name>clickLoginButton</name>
+                    <title>Click on Create Account button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372290057" stop="1518372290124" status="passed">
+                    <name>firstNameValidation</name>
+                    <title>Check the first name field by all the invalid first name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372291497" stop="1518372291680" status="passed">
+                    <name>clickLoginButton</name>
+                    <title>Click on Create Account button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372291682" stop="1518372291719" status="passed">
+                    <name>firstNameValidation</name>
+                    <title>Check the first name field by all the invalid first name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372292172" stop="1518372292331" status="passed">
+                    <name>clickLoginButton</name>
+                    <title>Click on Create Account button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372292333" stop="1518372292354" status="passed">
+                    <name>firstNameValidation</name>
+                    <title>Check the first name field by all the invalid first name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372293017" stop="1518372293308" status="passed">
+                    <name>clickLoginButton</name>
+                    <title>Click on Create Account button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372293309" stop="1518372293353" status="passed">
+                    <name>firstNameValidation</name>
+                    <title>Check the first name field by all the invalid first name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372294836" stop="1518372295002" status="passed">
+                    <name>clickLoginButton</name>
+                    <title>Click on Create Account button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372295004" stop="1518372295046" status="passed">
+                    <name>firstNameValidation</name>
+                    <title>Check the first name field by all the invalid first name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Walmart"/>
+                <label name="testGroup" value="Walmart Test"/>
+                <label name="testClass" value="First_name_validationTest"/>
+                <label name="testMethod" value="testFirstNameValidation"/>
+                <label name="host" value="DESKTOP-CIQLQJH"/>
+                <label name="thread" value="7940@DESKTOP-CIQLQJH.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1518372306381" stop="1518372311678" status="passed">
+            <name>testLastNameValidation</name>
+            <title>Testing Last name validation</title>
+            <steps>
+                <step start="1518372306542" stop="1518372306778" status="passed">
+                    <name>clickLoginButton</name>
+                    <title>Click on Create Account button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372306782" stop="1518372306853" status="passed">
+                    <name>lastNameValidation</name>
+                    <title>Check the last name field by all the invalid last name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372308175" stop="1518372308367" status="passed">
+                    <name>clickLoginButton</name>
+                    <title>Click on Create Account button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372308368" stop="1518372308402" status="passed">
+                    <name>lastNameValidation</name>
+                    <title>Check the last name field by all the invalid last name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372308881" stop="1518372309036" status="passed">
+                    <name>clickLoginButton</name>
+                    <title>Click on Create Account button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372309037" stop="1518372309062" status="passed">
+                    <name>lastNameValidation</name>
+                    <title>Check the last name field by all the invalid last name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372309672" stop="1518372309959" status="passed">
+                    <name>clickLoginButton</name>
+                    <title>Click on Create Account button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372309963" stop="1518372309992" status="passed">
+                    <name>lastNameValidation</name>
+                    <title>Check the last name field by all the invalid last name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372311466" stop="1518372311642" status="passed">
+                    <name>clickLoginButton</name>
+                    <title>Click on Create Account button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372311643" stop="1518372311678" status="passed">
+                    <name>lastNameValidation</name>
+                    <title>Check the last name field by all the invalid last name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Walmart"/>
+                <label name="testGroup" value="Walmart Test"/>
+                <label name="testClass" value="Last_name_validationTest"/>
+                <label name="testMethod" value="testLastNameValidation"/>
+                <label name="host" value="DESKTOP-CIQLQJH"/>
+                <label name="thread" value="7940@DESKTOP-CIQLQJH.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1518372322596" stop="1518372327995" status="passed">
+            <name>testEmailValidation</name>
+            <title>Testing Email validation</title>
+            <steps>
+                <step start="1518372322719" stop="1518372322973" status="passed">
+                    <name>clickLoginButton</name>
+                    <title>Click on Create Account button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372322975" stop="1518372323031" status="passed">
+                    <name>emailValidation</name>
+                    <title>Check the Email field by all the invalid emails</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372323786" stop="1518372323954" status="passed">
+                    <name>clickLoginButton</name>
+                    <title>Click on Create Account button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372323955" stop="1518372323982" status="passed">
+                    <name>emailValidation</name>
+                    <title>Check the Email field by all the invalid emails</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372324800" stop="1518372324961" status="passed">
+                    <name>clickLoginButton</name>
+                    <title>Click on Create Account button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372324962" stop="1518372324988" status="passed">
+                    <name>emailValidation</name>
+                    <title>Check the Email field by all the invalid emails</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372325637" stop="1518372325879" status="passed">
+                    <name>clickLoginButton</name>
+                    <title>Click on Create Account button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372325881" stop="1518372325908" status="passed">
+                    <name>emailValidation</name>
+                    <title>Check the Email field by all the invalid emails</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372326749" stop="1518372326908" status="passed">
+                    <name>clickLoginButton</name>
+                    <title>Click on Create Account button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372326909" stop="1518372326933" status="passed">
+                    <name>emailValidation</name>
+                    <title>Check the Email field by all the invalid emails</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372327944" stop="1518372327995" status="passed">
+                    <name>emailMarkerSuccess</name>
+                    <title>Check the Email field by valid emails</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Walmart"/>
+                <label name="testGroup" value="Walmart Test"/>
+                <label name="testClass" value="Email_validationTest"/>
+                <label name="testMethod" value="testEmailValidation"/>
+                <label name="host" value="DESKTOP-CIQLQJH"/>
+                <label name="thread" value="7940@DESKTOP-CIQLQJH.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1518372339076" stop="1518372342676" status="passed">
+            <name>testPasswordValidation</name>
+            <title>Testing Password validation</title>
+            <steps>
+                <step start="1518372339221" stop="1518372339457" status="passed">
+                    <name>clickLoginButton</name>
+                    <title>Click on Create Account button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372339458" stop="1518372339520" status="passed">
+                    <name>passwordValidation</name>
+                    <title>Check the Password field by all the invalid password</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372340016" stop="1518372340341" status="passed">
+                    <name>clickLoginButton</name>
+                    <title>Click on Create Account button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372340342" stop="1518372340368" status="passed">
+                    <name>passwordValidation</name>
+                    <title>Check the Password field by all the invalid password</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372340965" stop="1518372341193" status="passed">
+                    <name>clickLoginButton</name>
+                    <title>Click on Create Account button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372341194" stop="1518372341229" status="passed">
+                    <name>passwordValidation</name>
+                    <title>Check the Password field by all the invalid password</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372341728" stop="1518372341967" status="passed">
+                    <name>clickLoginButton</name>
+                    <title>Click on Create Account button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372341969" stop="1518372342026" status="passed">
+                    <name>passwordValidation</name>
+                    <title>Check the Password field by all the invalid password</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372342627" stop="1518372342676" status="passed">
+                    <name>passwordMarkerSuccess</name>
+                    <title>Check the password field by valid emails</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Walmart"/>
+                <label name="testGroup" value="Walmart Test"/>
+                <label name="testClass" value="Password_validationTest"/>
+                <label name="testMethod" value="testPasswordValidation"/>
+                <label name="host" value="DESKTOP-CIQLQJH"/>
+                <label name="thread" value="7940@DESKTOP-CIQLQJH.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1518372354191" stop="1518372363655" status="passed">
+            <name>testRedirect</name>
+            <title>Testing Redirect</title>
+            <steps>
+                <step start="1518372354193" stop="1518372354546" status="passed">
+                    <name>TermsofUseLink</name>
+                    <title>Click on TermsofUseLink link</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1518372359252" stop="1518372359617" status="passed">
+                    <name>PrivacyPolicyLink</name>
+                    <title>Click on PrivacyPolicyLink link</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Walmart"/>
+                <label name="testGroup" value="Walmart Test"/>
+                <label name="testClass" value="RedirectTest"/>
+                <label name="testMethod" value="testRedirect"/>
+                <label name="host" value="DESKTOP-CIQLQJH"/>
+                <label name="thread" value="7940@DESKTOP-CIQLQJH.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

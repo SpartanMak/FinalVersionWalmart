@@ -1,0 +1,145 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Walmart",
+    "children" : [ {
+      "name" : "Walmart Test",
+      "children" : [ {
+        "name" : "RegistrationTest",
+        "children" : [ {
+          "name" : "Testing registration user",
+          "uid" : "45f159528aadd6e9",
+          "parentUid" : "3699651bdf0c1d977ea278042d04e74b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1518367477805,
+            "stop" : 1518367481384,
+            "duration" : 3579
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing login user",
+          "uid" : "d1cb0335facbdf",
+          "parentUid" : "3699651bdf0c1d977ea278042d04e74b",
+          "status" : "failed",
+          "time" : {
+            "start" : 1518367481397,
+            "stop" : 1518367507634,
+            "duration" : 26237
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing logout user",
+          "uid" : "576287c673954009",
+          "parentUid" : "3699651bdf0c1d977ea278042d04e74b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1518367507741,
+            "stop" : 1518367513543,
+            "duration" : 5802
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing Forgot your password button",
+          "uid" : "74204d42da1d5e71",
+          "parentUid" : "3699651bdf0c1d977ea278042d04e74b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1518367513546,
+            "stop" : 1518367516477,
+            "duration" : 2931
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3699651bdf0c1d977ea278042d04e74b"
+      }, {
+        "name" : "First_name_validationTest",
+        "children" : [ {
+          "name" : "Testing First name validation",
+          "uid" : "9bb06402ef4ac92e",
+          "parentUid" : "986044dcf258b3e0fcdcc60abafe6718",
+          "status" : "passed",
+          "time" : {
+            "start" : 1518367528328,
+            "stop" : 1518367534473,
+            "duration" : 6145
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "986044dcf258b3e0fcdcc60abafe6718"
+      }, {
+        "name" : "Last_name_validationTest",
+        "children" : [ {
+          "name" : "Testing Last name validation",
+          "uid" : "c81b118f58189731",
+          "parentUid" : "db485c4ef80307ea5798fd39f95ee762",
+          "status" : "passed",
+          "time" : {
+            "start" : 1518367545641,
+            "stop" : 1518367551416,
+            "duration" : 5775
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "db485c4ef80307ea5798fd39f95ee762"
+      }, {
+        "name" : "Email_validationTest",
+        "children" : [ {
+          "name" : "Testing Email validation",
+          "uid" : "938e86591a46e58b",
+          "parentUid" : "e61cd9d76d33357fae9b07a2eee8ba96",
+          "status" : "broken",
+          "time" : {
+            "start" : 1518367562003,
+            "stop" : 1518367568232,
+            "duration" : 6229
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e61cd9d76d33357fae9b07a2eee8ba96"
+      }, {
+        "name" : "Password_validationTest",
+        "children" : [ {
+          "name" : "Testing Password validation",
+          "uid" : "92d90dc6eb6ec847",
+          "parentUid" : "b57ad442f8b8b7f0e7f1100bfd322593",
+          "status" : "passed",
+          "time" : {
+            "start" : 1518367579160,
+            "stop" : 1518367583149,
+            "duration" : 3989
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b57ad442f8b8b7f0e7f1100bfd322593"
+      }, {
+        "name" : "RedirectTest",
+        "children" : [ {
+          "name" : "Testing Redirect",
+          "uid" : "61caddd0ffec4e79",
+          "parentUid" : "b3c65e241ae7580a16e2aa85f051ff17",
+          "status" : "passed",
+          "time" : {
+            "start" : 1518367595451,
+            "stop" : 1518367607596,
+            "duration" : 12145
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b3c65e241ae7580a16e2aa85f051ff17"
+      } ],
+      "uid" : "1dc9b02a9531d425bcb97aace9c39d41"
+    } ],
+    "uid" : "4578b3b69fb366fbe1cac79c78b066eb"
+  } ]
+}

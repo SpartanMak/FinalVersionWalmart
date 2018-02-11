@@ -1,0 +1,209 @@
+{
+  "uid" : "57cfd54e70f6dc30",
+  "name" : "testLastNameValidation",
+  "title" : "Testing Last name validation",
+  "time" : {
+    "start" : 1518367545641,
+    "stop" : 1518367551416,
+    "duration" : 5775
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 10
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "7b9cb3cbf4f7a569",
+    "name" : "Walmart : Walmart Test",
+    "title" : "Walmart : Walmart Test"
+  },
+  "steps" : [ {
+    "name" : "clickLoginButton",
+    "title" : "Click on Create Account button",
+    "time" : {
+      "start" : 1518367545806,
+      "stop" : 1518367546066,
+      "duration" : 260
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "lastNameValidation",
+    "title" : "Check the last name field by all the invalid last name",
+    "time" : {
+      "start" : 1518367546068,
+      "stop" : 1518367546145,
+      "duration" : 77
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "clickLoginButton",
+    "title" : "Click on Create Account button",
+    "time" : {
+      "start" : 1518367547599,
+      "stop" : 1518367547807,
+      "duration" : 208
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "lastNameValidation",
+    "title" : "Check the last name field by all the invalid last name",
+    "time" : {
+      "start" : 1518367547808,
+      "stop" : 1518367547853,
+      "duration" : 45
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "clickLoginButton",
+    "title" : "Click on Create Account button",
+    "time" : {
+      "start" : 1518367548346,
+      "stop" : 1518367548556,
+      "duration" : 210
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "lastNameValidation",
+    "title" : "Check the last name field by all the invalid last name",
+    "time" : {
+      "start" : 1518367548557,
+      "stop" : 1518367548627,
+      "duration" : 70
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "clickLoginButton",
+    "title" : "Click on Create Account button",
+    "time" : {
+      "start" : 1518367549435,
+      "stop" : 1518367549667,
+      "duration" : 232
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "lastNameValidation",
+    "title" : "Check the last name field by all the invalid last name",
+    "time" : {
+      "start" : 1518367549671,
+      "stop" : 1518367549725,
+      "duration" : 54
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "clickLoginButton",
+    "title" : "Click on Create Account button",
+    "time" : {
+      "start" : 1518367551190,
+      "stop" : 1518367551369,
+      "duration" : 179
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "lastNameValidation",
+    "title" : "Check the last name field by all the invalid last name",
+    "time" : {
+      "start" : 1518367551370,
+      "stop" : 1518367551416,
+      "duration" : 46
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "testSuite",
+    "value" : "Walmart"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "Walmart : Walmart Test"
+  }, {
+    "name" : "testGroup",
+    "value" : "Walmart Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "testLastNameValidation"
+  }, {
+    "name" : "suite-title",
+    "value" : "Walmart : Walmart Test"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "thread",
+    "value" : "9772@DESKTOP-CIQLQJH.main(1)"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CIQLQJH"
+  }, {
+    "name" : "testClass",
+    "value" : "Last_name_validationTest"
+  } ],
+  "parameters" : [ ]
+}

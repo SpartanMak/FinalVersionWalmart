@@ -1,0 +1,292 @@
+{
+  "uid" : "c81b118f58189731",
+  "name" : "Testing Last name validation",
+  "fullName" : "Last_name_validationTest.testLastNameValidation",
+  "historyId" : "4ac78d3b70a0c96914fce6f349ee4537",
+  "time" : {
+    "start" : 1518367545641,
+    "stop" : 1518367551416,
+    "duration" : 5775
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Click on Create Account button",
+      "time" : {
+        "start" : 1518367545806,
+        "stop" : 1518367546066,
+        "duration" : 260
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Check the last name field by all the invalid last name",
+      "time" : {
+        "start" : 1518367546068,
+        "stop" : 1518367546145,
+        "duration" : 77
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Click on Create Account button",
+      "time" : {
+        "start" : 1518367547599,
+        "stop" : 1518367547807,
+        "duration" : 208
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Check the last name field by all the invalid last name",
+      "time" : {
+        "start" : 1518367547808,
+        "stop" : 1518367547853,
+        "duration" : 45
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Click on Create Account button",
+      "time" : {
+        "start" : 1518367548346,
+        "stop" : 1518367548556,
+        "duration" : 210
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Check the last name field by all the invalid last name",
+      "time" : {
+        "start" : 1518367548557,
+        "stop" : 1518367548627,
+        "duration" : 70
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Click on Create Account button",
+      "time" : {
+        "start" : 1518367549435,
+        "stop" : 1518367549667,
+        "duration" : 232
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Check the last name field by all the invalid last name",
+      "time" : {
+        "start" : 1518367549671,
+        "stop" : 1518367549725,
+        "duration" : 54
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Click on Create Account button",
+      "time" : {
+        "start" : 1518367551190,
+        "stop" : 1518367551369,
+        "duration" : 179
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Check the last name field by all the invalid last name",
+      "time" : {
+        "start" : 1518367551370,
+        "stop" : 1518367551416,
+        "duration" : 46
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 10,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CIQLQJH"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "Last_name_validationTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "Walmart Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "testLastNameValidation"
+  }, {
+    "name" : "testSuite",
+    "value" : "Walmart"
+  }, {
+    "name" : "thread",
+    "value" : "9772@DESKTOP-CIQLQJH.main(1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Walmart"
+  }, {
+    "name" : "suite",
+    "value" : "Walmart Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Last_name_validationTest"
+  }, {
+    "name" : "package",
+    "value" : "Last_name_validationTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "f4a3c3d5916b301f",
+        "reportUrl" : "nulljob/FinalVersion/8/allure/#testresult/f4a3c3d5916b301f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518367070859,
+          "stop" : 1518367089176,
+          "duration" : 18317
+        }
+      }, {
+        "uid" : "f40236a7b93620c8",
+        "reportUrl" : "nulljob/FinalVersion/7/allure/#testresult/f40236a7b93620c8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518363215245,
+          "stop" : 1518363222592,
+          "duration" : 7347
+        }
+      }, {
+        "uid" : "db611f97e4bc13d7",
+        "reportUrl" : "nulljob/FinalVersion/6/allure/#testresult/db611f97e4bc13d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518363033573,
+          "stop" : 1518363039859,
+          "duration" : 6286
+        }
+      }, {
+        "uid" : "aafb6d620e5883f9",
+        "reportUrl" : "nulljob/FinalVersion/5/allure/#testresult/aafb6d620e5883f9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518362857636,
+          "stop" : 1518362863586,
+          "duration" : 5950
+        }
+      }, {
+        "uid" : "b6abef1510e1ca89",
+        "reportUrl" : "nulljob/FinalVersion/4/allure/#testresult/b6abef1510e1ca89",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518361935957,
+          "stop" : 1518361942336,
+          "duration" : 6379
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c81b118f58189731.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

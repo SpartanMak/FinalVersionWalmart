@@ -1,0 +1,277 @@
+{
+  "uid" : "92d90dc6eb6ec847",
+  "name" : "Testing Password validation",
+  "fullName" : "Password_validationTest.testPasswordValidation",
+  "historyId" : "6ff1a456f44b10cabe4e3176343d35b2",
+  "time" : {
+    "start" : 1518367579160,
+    "stop" : 1518367583149,
+    "duration" : 3989
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Click on Create Account button",
+      "time" : {
+        "start" : 1518367579346,
+        "stop" : 1518367579672,
+        "duration" : 326
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Check the Password field by all the invalid password",
+      "time" : {
+        "start" : 1518367579673,
+        "stop" : 1518367579746,
+        "duration" : 73
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Click on Create Account button",
+      "time" : {
+        "start" : 1518367580214,
+        "stop" : 1518367580464,
+        "duration" : 250
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Check the Password field by all the invalid password",
+      "time" : {
+        "start" : 1518367580465,
+        "stop" : 1518367580499,
+        "duration" : 34
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Click on Create Account button",
+      "time" : {
+        "start" : 1518367581180,
+        "stop" : 1518367581446,
+        "duration" : 266
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Check the Password field by all the invalid password",
+      "time" : {
+        "start" : 1518367581447,
+        "stop" : 1518367581492,
+        "duration" : 45
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Click on Create Account button",
+      "time" : {
+        "start" : 1518367582023,
+        "stop" : 1518367582273,
+        "duration" : 250
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Check the Password field by all the invalid password",
+      "time" : {
+        "start" : 1518367582274,
+        "stop" : 1518367582379,
+        "duration" : 105
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Check the password field by valid emails",
+      "time" : {
+        "start" : 1518367583081,
+        "stop" : 1518367583148,
+        "duration" : 67
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 9,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CIQLQJH"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "Password_validationTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "Walmart Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "testPasswordValidation"
+  }, {
+    "name" : "testSuite",
+    "value" : "Walmart"
+  }, {
+    "name" : "thread",
+    "value" : "9772@DESKTOP-CIQLQJH.main(1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Walmart"
+  }, {
+    "name" : "suite",
+    "value" : "Walmart Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Password_validationTest"
+  }, {
+    "name" : "package",
+    "value" : "Password_validationTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "20f38a6c0f5b9522",
+        "reportUrl" : "nulljob/FinalVersion/8/allure/#testresult/20f38a6c0f5b9522",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518367150206,
+          "stop" : 1518367162518,
+          "duration" : 12312
+        }
+      }, {
+        "uid" : "b89aead8e83a592b",
+        "reportUrl" : "nulljob/FinalVersion/7/allure/#testresult/b89aead8e83a592b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518363256474,
+          "stop" : 1518363280929,
+          "duration" : 24455
+        }
+      }, {
+        "uid" : "7101d57343489aa8",
+        "reportUrl" : "nulljob/FinalVersion/6/allure/#testresult/7101d57343489aa8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518363067613,
+          "stop" : 1518363072004,
+          "duration" : 4391
+        }
+      }, {
+        "uid" : "fb21d6f6993a1443",
+        "reportUrl" : "nulljob/FinalVersion/5/allure/#testresult/fb21d6f6993a1443",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518362892893,
+          "stop" : 1518362896867,
+          "duration" : 3974
+        }
+      }, {
+        "uid" : "f27bb6d7d32da9cc",
+        "reportUrl" : "nulljob/FinalVersion/4/allure/#testresult/f27bb6d7d32da9cc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518361971912,
+          "stop" : 1518361975879,
+          "duration" : 3967
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "92d90dc6eb6ec847.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

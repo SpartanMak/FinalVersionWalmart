@@ -1,0 +1,601 @@
+{
+  "214ef582280709870b4f1c5416d4d3ec" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "74204d42da1d5e71",
+      "reportUrl" : "nulljob/FinalVersion/9/allure/#testresult/74204d42da1d5e71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518367513546,
+        "stop" : 1518367516477,
+        "duration" : 2931
+      }
+    }, {
+      "uid" : "c8137db4919a31b2",
+      "reportUrl" : "nulljob/FinalVersion/8/allure/#testresult/c8137db4919a31b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518366998269,
+        "stop" : 1518367006214,
+        "duration" : 7945
+      }
+    }, {
+      "uid" : "f96da03aec1f83ae",
+      "reportUrl" : "nulljob/FinalVersion/7/allure/#testresult/f96da03aec1f83ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518363183798,
+        "stop" : 1518363186043,
+        "duration" : 2245
+      }
+    }, {
+      "uid" : "2c67e19af2f93c7d",
+      "reportUrl" : "nulljob/FinalVersion/6/allure/#testresult/2c67e19af2f93c7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518363003416,
+        "stop" : 1518363005820,
+        "duration" : 2404
+      }
+    }, {
+      "uid" : "1bf072189bdf60df",
+      "reportUrl" : "nulljob/FinalVersion/5/allure/#testresult/1bf072189bdf60df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518362827141,
+        "stop" : 1518362829386,
+        "duration" : 2245
+      }
+    } ]
+  },
+  "98bd6a77ffbb2bf57362087562c7070d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "576287c673954009",
+      "reportUrl" : "nulljob/FinalVersion/9/allure/#testresult/576287c673954009",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518367507741,
+        "stop" : 1518367513543,
+        "duration" : 5802
+      }
+    }, {
+      "uid" : "90fc08cc1a11edca",
+      "reportUrl" : "nulljob/FinalVersion/8/allure/#testresult/90fc08cc1a11edca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518366990402,
+        "stop" : 1518366998262,
+        "duration" : 7860
+      }
+    }, {
+      "uid" : "93612738c4db1559",
+      "reportUrl" : "nulljob/FinalVersion/7/allure/#testresult/93612738c4db1559",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518363180792,
+        "stop" : 1518363183798,
+        "duration" : 3006
+      }
+    }, {
+      "uid" : "77e89886ff259210",
+      "reportUrl" : "nulljob/FinalVersion/6/allure/#testresult/77e89886ff259210",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518362999461,
+        "stop" : 1518363003415,
+        "duration" : 3954
+      }
+    }, {
+      "uid" : "4ebc42b817335cb9",
+      "reportUrl" : "nulljob/FinalVersion/5/allure/#testresult/4ebc42b817335cb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518362824449,
+        "stop" : 1518362827140,
+        "duration" : 2691
+      }
+    } ]
+  },
+  "7bf039332d40945018784ffd659adf0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "58ac173fd8a7d705",
+      "reportUrl" : "nulljob/FinalVersion/2/allure/#testresult/58ac173fd8a7d705",
+      "status" : "broken",
+      "statusDetails" : "NoSuchElementException: no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"ellipsify-name\"}\n  (Session info: chrome=63.0.3239.132)\n  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 78 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.4.0', revision: 'unknown', time: 'unknown'\nSystem info: host: 'DESKTOP-CIQLQJH', ip: '192.168.0.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\\Users\\spart\\AppData\\Local\\Temp\\scoped_dir9456_25500}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=63.0.3239.132, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]\nSession ID: b8d193653d82cfc8bc167159ee24ff8f\n*** Element info: {Using=class name, value=ellipsify-name}",
+      "time" : {
+        "start" : 1518345841554,
+        "stop" : 1518345842028,
+        "duration" : 474
+      }
+    }, {
+      "uid" : "e9450d459b409d30",
+      "reportUrl" : "nulljob/FinalVersion/1/allure/#testresult/e9450d459b409d30",
+      "status" : "broken",
+      "statusDetails" : "NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@class = 'items-sidebar']/div[@class = 'user-options']/div[@class = 'dropdown']/a[contains(@class, 'link-name')]\"}\n  (Session info: chrome=63.0.3239.132)\n  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 95 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.4.0', revision: 'unknown', time: 'unknown'\nSystem info: host: 'DESKTOP-CIQLQJH', ip: '192.168.0.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\\Users\\spart\\AppData\\Local\\Temp\\scoped_dir7580_31589}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=63.0.3239.132, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]\nSession ID: 2a08733f1fe592388e4343757c0ca3a9\n*** Element info: {Using=xpath, value=//div[@class = 'items-sidebar']/div[@class = 'user-options']/div[@class = 'dropdown']/a[contains(@class, 'link-name')]}",
+      "time" : {
+        "start" : 1518039683837,
+        "stop" : 1518039684330,
+        "duration" : 493
+      }
+    } ]
+  },
+  "58294d5415513e5958f3b6bb08987fea" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "61caddd0ffec4e79",
+      "reportUrl" : "nulljob/FinalVersion/9/allure/#testresult/61caddd0ffec4e79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518367595451,
+        "stop" : 1518367607596,
+        "duration" : 12145
+      }
+    }, {
+      "uid" : "ff8e1d765b1951b6",
+      "reportUrl" : "nulljob/FinalVersion/8/allure/#testresult/ff8e1d765b1951b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518367184857,
+        "stop" : 1518367204982,
+        "duration" : 20125
+      }
+    }, {
+      "uid" : "e3aff840efab78a4",
+      "reportUrl" : "nulljob/FinalVersion/7/allure/#testresult/e3aff840efab78a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518363292748,
+        "stop" : 1518363302671,
+        "duration" : 9923
+      }
+    }, {
+      "uid" : "66a7b7f04472d2a4",
+      "reportUrl" : "nulljob/FinalVersion/6/allure/#testresult/66a7b7f04472d2a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518363083371,
+        "stop" : 1518363092966,
+        "duration" : 9595
+      }
+    }, {
+      "uid" : "172c955c65c8436e",
+      "reportUrl" : "nulljob/FinalVersion/5/allure/#testresult/172c955c65c8436e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518362908179,
+        "stop" : 1518362917973,
+        "duration" : 9794
+      }
+    } ]
+  },
+  "1e6f38f784991672ff824d142dbd1df5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "75eede30645a7e28",
+      "reportUrl" : "nulljob/FinalVersion/2/allure/#testresult/75eede30645a7e28",
+      "status" : "broken",
+      "statusDetails" : "NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[@data-tl-id = 'signin-forgot-password-link-btn']\"}\n  (Session info: chrome=63.0.3239.132)\n  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 47 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.4.0', revision: 'unknown', time: 'unknown'\nSystem info: host: 'DESKTOP-CIQLQJH', ip: '192.168.0.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\\Users\\spart\\AppData\\Local\\Temp\\scoped_dir9456_25500}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=63.0.3239.132, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]\nSession ID: b8d193653d82cfc8bc167159ee24ff8f\n*** Element info: {Using=xpath, value=//button[@data-tl-id = 'signin-forgot-password-link-btn']}",
+      "time" : {
+        "start" : 1518345842028,
+        "stop" : 1518345842443,
+        "duration" : 415
+      }
+    }, {
+      "uid" : "7866618027d02240",
+      "reportUrl" : "nulljob/FinalVersion/1/allure/#testresult/7866618027d02240",
+      "status" : "broken",
+      "statusDetails" : "NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".alert.alert-success\"}\n  (Session info: chrome=63.0.3239.132)\n  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 61 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.4.0', revision: 'unknown', time: 'unknown'\nSystem info: host: 'DESKTOP-CIQLQJH', ip: '192.168.0.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\\Users\\spart\\AppData\\Local\\Temp\\scoped_dir7580_31589}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=63.0.3239.132, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]\nSession ID: 2a08733f1fe592388e4343757c0ca3a9\n*** Element info: {Using=css selector, value=.alert.alert-success}",
+      "time" : {
+        "start" : 1518039684334,
+        "stop" : 1518039688207,
+        "duration" : 3873
+      }
+    } ]
+  },
+  "de29b6fe12d3ff4c45f5fb906dd21c3b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "e4f67a9f8f575d59",
+      "reportUrl" : "nulljob/FinalVersion/2/allure/#testresult/e4f67a9f8f575d59",
+      "status" : "broken",
+      "statusDetails" : "TimeoutException: Expected condition failed: waiting for presence of element located by: By.className: ellipsify-name (tried for 30 second(s) with 500 MILLISECONDS interval)",
+      "time" : {
+        "start" : 1518345810238,
+        "stop" : 1518345841554,
+        "duration" : 31316
+      }
+    }, {
+      "uid" : "94e4cdbe0b21fb35",
+      "reportUrl" : "nulljob/FinalVersion/1/allure/#testresult/94e4cdbe0b21fb35",
+      "status" : "broken",
+      "statusDetails" : "NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@class = 'items-sidebar']/div[@class = 'user-options']/div[@class = 'dropdown']/a[contains(@class, 'link-name')]\"}\n  (Session info: chrome=63.0.3239.132)\n  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 128 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.4.0', revision: 'unknown', time: 'unknown'\nSystem info: host: 'DESKTOP-CIQLQJH', ip: '192.168.0.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\\Users\\spart\\AppData\\Local\\Temp\\scoped_dir7580_31589}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=63.0.3239.132, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]\nSession ID: 2a08733f1fe592388e4343757c0ca3a9\n*** Element info: {Using=xpath, value=//div[@class = 'items-sidebar']/div[@class = 'user-options']/div[@class = 'dropdown']/a[contains(@class, 'link-name')]}",
+      "time" : {
+        "start" : 1518039682595,
+        "stop" : 1518039683837,
+        "duration" : 1242
+      }
+    } ]
+  },
+  "e20dd807446955b56a22aa3e9c742437" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "938e86591a46e58b",
+      "reportUrl" : "nulljob/FinalVersion/9/allure/#testresult/938e86591a46e58b",
+      "status" : "broken",
+      "statusDetails" : "NoSuchElementException: no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"validation-marker-success\"}\n  (Session info: chrome=63.0.3239.132)\n  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 28 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.4.0', revision: 'unknown', time: 'unknown'\nSystem info: host: 'DESKTOP-CIQLQJH', ip: '192.168.0.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\\Users\\spart\\AppData\\Local\\Temp\\scoped_dir10296_7607}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=63.0.3239.132, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]\nSession ID: 4ed34b9891f07d15b302157e873aea5f\n*** Element info: {Using=class name, value=validation-marker-success}",
+      "time" : {
+        "start" : 1518367562003,
+        "stop" : 1518367568232,
+        "duration" : 6229
+      }
+    }, {
+      "uid" : "efe4807833aaf151",
+      "reportUrl" : "nulljob/FinalVersion/8/allure/#testresult/efe4807833aaf151",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518367109204,
+        "stop" : 1518367128763,
+        "duration" : 19559
+      }
+    }, {
+      "uid" : "ed85dd76b7dce5e5",
+      "reportUrl" : "nulljob/FinalVersion/7/allure/#testresult/ed85dd76b7dce5e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518363234051,
+        "stop" : 1518363242720,
+        "duration" : 8669
+      }
+    }, {
+      "uid" : "93b20a684c049819",
+      "reportUrl" : "nulljob/FinalVersion/6/allure/#testresult/93b20a684c049819",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518363050253,
+        "stop" : 1518363056378,
+        "duration" : 6125
+      }
+    }, {
+      "uid" : "b97b7ca9cfc6bbbb",
+      "reportUrl" : "nulljob/FinalVersion/5/allure/#testresult/b97b7ca9cfc6bbbb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518362875076,
+        "stop" : 1518362881556,
+        "duration" : 6480
+      }
+    } ]
+  },
+  "a11a30bd7bff489e21e6919d82db3d20" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "d1cb0335facbdf",
+      "reportUrl" : "nulljob/FinalVersion/9/allure/#testresult/d1cb0335facbdf",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: expected [true] but found [false]",
+      "time" : {
+        "start" : 1518367481397,
+        "stop" : 1518367507634,
+        "duration" : 26237
+      }
+    }, {
+      "uid" : "8d3bc956a0dbe390",
+      "reportUrl" : "nulljob/FinalVersion/8/allure/#testresult/8d3bc956a0dbe390",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518366980339,
+        "stop" : 1518366990399,
+        "duration" : 10060
+      }
+    }, {
+      "uid" : "aace70b59ae23292",
+      "reportUrl" : "nulljob/FinalVersion/7/allure/#testresult/aace70b59ae23292",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518363175758,
+        "stop" : 1518363180790,
+        "duration" : 5032
+      }
+    }, {
+      "uid" : "b0a3d0044664b2a7",
+      "reportUrl" : "nulljob/FinalVersion/6/allure/#testresult/b0a3d0044664b2a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518362994385,
+        "stop" : 1518362999445,
+        "duration" : 5060
+      }
+    }, {
+      "uid" : "237c8b15b4bf921b",
+      "reportUrl" : "nulljob/FinalVersion/5/allure/#testresult/237c8b15b4bf921b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518362819032,
+        "stop" : 1518362824447,
+        "duration" : 5415
+      }
+    } ]
+  },
+  "84e832d2bf07f5222ff876b527539b02" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "45f159528aadd6e9",
+      "reportUrl" : "nulljob/FinalVersion/9/allure/#testresult/45f159528aadd6e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518367477805,
+        "stop" : 1518367481384,
+        "duration" : 3579
+      }
+    }, {
+      "uid" : "28d4d98d0a877171",
+      "reportUrl" : "nulljob/FinalVersion/8/allure/#testresult/28d4d98d0a877171",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518366968786,
+        "stop" : 1518366980324,
+        "duration" : 11538
+      }
+    }, {
+      "uid" : "aac9178d4b4fab75",
+      "reportUrl" : "nulljob/FinalVersion/7/allure/#testresult/aac9178d4b4fab75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518363172168,
+        "stop" : 1518363175746,
+        "duration" : 3578
+      }
+    }, {
+      "uid" : "ac2a1bd2db9a53e6",
+      "reportUrl" : "nulljob/FinalVersion/6/allure/#testresult/ac2a1bd2db9a53e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518362990832,
+        "stop" : 1518362994374,
+        "duration" : 3542
+      }
+    }, {
+      "uid" : "57e7f72f7f095881",
+      "reportUrl" : "nulljob/FinalVersion/5/allure/#testresult/57e7f72f7f095881",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518362815520,
+        "stop" : 1518362819026,
+        "duration" : 3506
+      }
+    } ]
+  },
+  "4ac78d3b70a0c96914fce6f349ee4537" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "c81b118f58189731",
+      "reportUrl" : "nulljob/FinalVersion/9/allure/#testresult/c81b118f58189731",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518367545641,
+        "stop" : 1518367551416,
+        "duration" : 5775
+      }
+    }, {
+      "uid" : "f4a3c3d5916b301f",
+      "reportUrl" : "nulljob/FinalVersion/8/allure/#testresult/f4a3c3d5916b301f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518367070859,
+        "stop" : 1518367089176,
+        "duration" : 18317
+      }
+    }, {
+      "uid" : "f40236a7b93620c8",
+      "reportUrl" : "nulljob/FinalVersion/7/allure/#testresult/f40236a7b93620c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518363215245,
+        "stop" : 1518363222592,
+        "duration" : 7347
+      }
+    }, {
+      "uid" : "db611f97e4bc13d7",
+      "reportUrl" : "nulljob/FinalVersion/6/allure/#testresult/db611f97e4bc13d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518363033573,
+        "stop" : 1518363039859,
+        "duration" : 6286
+      }
+    }, {
+      "uid" : "aafb6d620e5883f9",
+      "reportUrl" : "nulljob/FinalVersion/5/allure/#testresult/aafb6d620e5883f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518362857636,
+        "stop" : 1518362863586,
+        "duration" : 5950
+      }
+    } ]
+  },
+  "6ff1a456f44b10cabe4e3176343d35b2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "92d90dc6eb6ec847",
+      "reportUrl" : "nulljob/FinalVersion/9/allure/#testresult/92d90dc6eb6ec847",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518367579160,
+        "stop" : 1518367583149,
+        "duration" : 3989
+      }
+    }, {
+      "uid" : "20f38a6c0f5b9522",
+      "reportUrl" : "nulljob/FinalVersion/8/allure/#testresult/20f38a6c0f5b9522",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518367150206,
+        "stop" : 1518367162518,
+        "duration" : 12312
+      }
+    }, {
+      "uid" : "b89aead8e83a592b",
+      "reportUrl" : "nulljob/FinalVersion/7/allure/#testresult/b89aead8e83a592b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518363256474,
+        "stop" : 1518363280929,
+        "duration" : 24455
+      }
+    }, {
+      "uid" : "7101d57343489aa8",
+      "reportUrl" : "nulljob/FinalVersion/6/allure/#testresult/7101d57343489aa8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518363067613,
+        "stop" : 1518363072004,
+        "duration" : 4391
+      }
+    }, {
+      "uid" : "fb21d6f6993a1443",
+      "reportUrl" : "nulljob/FinalVersion/5/allure/#testresult/fb21d6f6993a1443",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518362892893,
+        "stop" : 1518362896867,
+        "duration" : 3974
+      }
+    } ]
+  },
+  "7bdd54ce9f3a2cc5be67844244d72c50" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "9bb06402ef4ac92e",
+      "reportUrl" : "nulljob/FinalVersion/9/allure/#testresult/9bb06402ef4ac92e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518367528328,
+        "stop" : 1518367534473,
+        "duration" : 6145
+      }
+    }, {
+      "uid" : "d67995b2d7fa3d4b",
+      "reportUrl" : "nulljob/FinalVersion/8/allure/#testresult/d67995b2d7fa3d4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518367030241,
+        "stop" : 1518367049063,
+        "duration" : 18822
+      }
+    }, {
+      "uid" : "2fbe17c297614002",
+      "reportUrl" : "nulljob/FinalVersion/7/allure/#testresult/2fbe17c297614002",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518363197392,
+        "stop" : 1518363203630,
+        "duration" : 6238
+      }
+    }, {
+      "uid" : "2ec04a5f5069a892",
+      "reportUrl" : "nulljob/FinalVersion/6/allure/#testresult/2ec04a5f5069a892",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518363016853,
+        "stop" : 1518363022823,
+        "duration" : 5970
+      }
+    }, {
+      "uid" : "39a47aba65787e9f",
+      "reportUrl" : "nulljob/FinalVersion/5/allure/#testresult/39a47aba65787e9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1518362840163,
+        "stop" : 1518362846401,
+        "duration" : 6238
+      }
+    } ]
+  }
+}

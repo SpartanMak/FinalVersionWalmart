@@ -1,0 +1,8 @@
+RedirectTest.class
+RegistrationTest.class
+Password_validationTest.class
+First_name_validationTest.class
+Email_validationTest.class
+Last_name_validationTest.class
+TestListener.class
+BaseTest.class

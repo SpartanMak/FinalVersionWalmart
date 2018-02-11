@@ -1,0 +1,232 @@
+{
+  "uid" : "45f159528aadd6e9",
+  "name" : "Testing registration user",
+  "fullName" : "RegistrationTest.testRegistrationUser",
+  "historyId" : "84e832d2bf07f5222ff876b527539b02",
+  "time" : {
+    "start" : 1518367477805,
+    "stop" : 1518367481384,
+    "duration" : 3579
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Input First Name",
+      "time" : {
+        "start" : 1518367478124,
+        "stop" : 1518367478829,
+        "duration" : 705
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Input Last Name",
+      "time" : {
+        "start" : 1518367478832,
+        "stop" : 1518367479330,
+        "duration" : 498
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Input Email",
+      "time" : {
+        "start" : 1518367479331,
+        "stop" : 1518367480416,
+        "duration" : 1085
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Input Password",
+      "time" : {
+        "start" : 1518367480418,
+        "stop" : 1518367480978,
+        "duration" : 560
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Click checkbox RememberMe",
+      "time" : {
+        "start" : 1518367480979,
+        "stop" : 1518367481033,
+        "duration" : 54
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Click on Create Account button",
+      "time" : {
+        "start" : 1518367481034,
+        "stop" : 1518367481381,
+        "duration" : 347
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 6,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CIQLQJH"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "RegistrationTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "Walmart Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "testRegistrationUser"
+  }, {
+    "name" : "testSuite",
+    "value" : "Walmart"
+  }, {
+    "name" : "thread",
+    "value" : "9772@DESKTOP-CIQLQJH.main(1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Walmart"
+  }, {
+    "name" : "suite",
+    "value" : "Walmart Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "RegistrationTest"
+  }, {
+    "name" : "package",
+    "value" : "RegistrationTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "28d4d98d0a877171",
+        "reportUrl" : "nulljob/FinalVersion/8/allure/#testresult/28d4d98d0a877171",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518366968786,
+          "stop" : 1518366980324,
+          "duration" : 11538
+        }
+      }, {
+        "uid" : "aac9178d4b4fab75",
+        "reportUrl" : "nulljob/FinalVersion/7/allure/#testresult/aac9178d4b4fab75",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518363172168,
+          "stop" : 1518363175746,
+          "duration" : 3578
+        }
+      }, {
+        "uid" : "ac2a1bd2db9a53e6",
+        "reportUrl" : "nulljob/FinalVersion/6/allure/#testresult/ac2a1bd2db9a53e6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518362990832,
+          "stop" : 1518362994374,
+          "duration" : 3542
+        }
+      }, {
+        "uid" : "57e7f72f7f095881",
+        "reportUrl" : "nulljob/FinalVersion/5/allure/#testresult/57e7f72f7f095881",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518362815520,
+          "stop" : 1518362819026,
+          "duration" : 3506
+        }
+      }, {
+        "uid" : "bc2ad7897c188df4",
+        "reportUrl" : "nulljob/FinalVersion/4/allure/#testresult/bc2ad7897c188df4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518361892747,
+          "stop" : 1518361896589,
+          "duration" : 3842
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "45f159528aadd6e9.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

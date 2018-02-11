@@ -1,0 +1,232 @@
+{
+  "uid" : "74204d42da1d5e71",
+  "name" : "Testing Forgot your password button",
+  "fullName" : "RegistrationTest.testResetPassword",
+  "historyId" : "214ef582280709870b4f1c5416d4d3ec",
+  "time" : {
+    "start" : 1518367513546,
+    "stop" : 1518367516477,
+    "duration" : 2931
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Click on forgot password link",
+      "time" : {
+        "start" : 1518367513548,
+        "stop" : 1518367513808,
+        "duration" : 260
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Click on reset button",
+      "time" : {
+        "start" : 1518367513827,
+        "stop" : 1518367514001,
+        "duration" : 174
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Get Forgot your password text false",
+      "time" : {
+        "start" : 1518367514002,
+        "stop" : 1518367514067,
+        "duration" : 65
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Input Email",
+      "time" : {
+        "start" : 1518367514069,
+        "stop" : 1518367516068,
+        "duration" : 1999
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Click on reset button",
+      "time" : {
+        "start" : 1518367516070,
+        "stop" : 1518367516392,
+        "duration" : 322
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Get Forgot your password text true",
+      "time" : {
+        "start" : 1518367516396,
+        "stop" : 1518367516477,
+        "duration" : 81
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 6,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CIQLQJH"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "RegistrationTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "Walmart Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "testResetPassword"
+  }, {
+    "name" : "testSuite",
+    "value" : "Walmart"
+  }, {
+    "name" : "thread",
+    "value" : "9772@DESKTOP-CIQLQJH.main(1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Walmart"
+  }, {
+    "name" : "suite",
+    "value" : "Walmart Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "RegistrationTest"
+  }, {
+    "name" : "package",
+    "value" : "RegistrationTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "c8137db4919a31b2",
+        "reportUrl" : "nulljob/FinalVersion/8/allure/#testresult/c8137db4919a31b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518366998269,
+          "stop" : 1518367006214,
+          "duration" : 7945
+        }
+      }, {
+        "uid" : "f96da03aec1f83ae",
+        "reportUrl" : "nulljob/FinalVersion/7/allure/#testresult/f96da03aec1f83ae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518363183798,
+          "stop" : 1518363186043,
+          "duration" : 2245
+        }
+      }, {
+        "uid" : "2c67e19af2f93c7d",
+        "reportUrl" : "nulljob/FinalVersion/6/allure/#testresult/2c67e19af2f93c7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518363003416,
+          "stop" : 1518363005820,
+          "duration" : 2404
+        }
+      }, {
+        "uid" : "1bf072189bdf60df",
+        "reportUrl" : "nulljob/FinalVersion/5/allure/#testresult/1bf072189bdf60df",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518362827141,
+          "stop" : 1518362829386,
+          "duration" : 2245
+        }
+      }, {
+        "uid" : "b7598791f8944d7f",
+        "reportUrl" : "nulljob/FinalVersion/4/allure/#testresult/b7598791f8944d7f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518361905551,
+          "stop" : 1518361907713,
+          "duration" : 2162
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "74204d42da1d5e71.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

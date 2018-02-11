@@ -1,0 +1,172 @@
+{
+  "uid" : "61caddd0ffec4e79",
+  "name" : "Testing Redirect",
+  "fullName" : "RedirectTest.testRedirect",
+  "historyId" : "58294d5415513e5958f3b6bb08987fea",
+  "time" : {
+    "start" : 1518367595451,
+    "stop" : 1518367607596,
+    "duration" : 12145
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Click on TermsofUseLink link",
+      "time" : {
+        "start" : 1518367595453,
+        "stop" : 1518367595759,
+        "duration" : 306
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Click on PrivacyPolicyLink link",
+      "time" : {
+        "start" : 1518367601613,
+        "stop" : 1518367602759,
+        "duration" : 1146
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CIQLQJH"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "RedirectTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "Walmart Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "testRedirect"
+  }, {
+    "name" : "testSuite",
+    "value" : "Walmart"
+  }, {
+    "name" : "thread",
+    "value" : "9772@DESKTOP-CIQLQJH.main(1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Walmart"
+  }, {
+    "name" : "suite",
+    "value" : "Walmart Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "RedirectTest"
+  }, {
+    "name" : "package",
+    "value" : "RedirectTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "ff8e1d765b1951b6",
+        "reportUrl" : "nulljob/FinalVersion/8/allure/#testresult/ff8e1d765b1951b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518367184857,
+          "stop" : 1518367204982,
+          "duration" : 20125
+        }
+      }, {
+        "uid" : "e3aff840efab78a4",
+        "reportUrl" : "nulljob/FinalVersion/7/allure/#testresult/e3aff840efab78a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518363292748,
+          "stop" : 1518363302671,
+          "duration" : 9923
+        }
+      }, {
+        "uid" : "66a7b7f04472d2a4",
+        "reportUrl" : "nulljob/FinalVersion/6/allure/#testresult/66a7b7f04472d2a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518363083371,
+          "stop" : 1518363092966,
+          "duration" : 9595
+        }
+      }, {
+        "uid" : "172c955c65c8436e",
+        "reportUrl" : "nulljob/FinalVersion/5/allure/#testresult/172c955c65c8436e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518362908179,
+          "stop" : 1518362917973,
+          "duration" : 9794
+        }
+      }, {
+        "uid" : "4b31cbe27c0d9692",
+        "reportUrl" : "nulljob/FinalVersion/4/allure/#testresult/4b31cbe27c0d9692",
+        "status" : "passed",
+        "time" : {
+          "start" : 1518361986446,
+          "stop" : 1518361996901,
+          "duration" : 10455
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "61caddd0ffec4e79.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}
