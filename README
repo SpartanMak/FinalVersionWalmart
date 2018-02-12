@@ -1,7 +1,7 @@
 Install:
 1) The tests are written in IDE IntelliJ Idea, the usual Maven project (Selenium WebDriver + TestNG is a test framework) - https://www.jetbrains.com/idea/download/#section=windows
 2) To use WebDriver with Chrome - https://sites.google.com/a/chromium.org/chromedriver/
-3) For autotest using Selenium Webdriver and Java, you will need:
+3) You need Selenium Webdriver and Java to launch this autotest:
   a) Installed Java JDK - http://www.oracle.com/technetwork/java/javase/downloads/index.html
   b) Maven - https://maven.apache.org/download.cgi
 4) Allure Test Report - http://allure.qatools.ru/
@@ -9,7 +9,7 @@ Install:
 Running:
 1) Run IDE IntelliJ Idea
 2) Open the FinalVersionWalmart project
-3) Launch tests in several ways:
+3) You can launch tests in several ways:
   a) Run command in the terminal: mvn clean test site - http://prntscr.com/idhm3i
   b) From the right sidebar of Maven Projects - http://prntscr.com/idhm92
   c) From the top panel - http://prntscr.com/idhmg5
