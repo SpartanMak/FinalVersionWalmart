@@ -4,7 +4,9 @@ Install:
 3) You need Selenium Webdriver and Java to launch this autotest:
   a) Installed Java JDK - http://www.oracle.com/technetwork/java/javase/downloads/index.html
   b) Maven - https://maven.apache.org/download.cgi
-4) Allure Test Report - http://allure.qatools.ru/
+4) Allure Test Report:
+  a) Instructions - https://www.swtestacademy.com/allure-testng/
+  b) Installer Allure - https://bintray.com/qameta/generic/allure2
 
 Running:
 1) Run IDE IntelliJ Idea
